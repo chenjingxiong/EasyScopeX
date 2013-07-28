@@ -1,0 +1,12 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="EasyScope.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="AccentColor" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">31, 73, 125</Value>
+    </Setting>
+    <Setting Name="AppStyle" Type="DevComponents.DotNetBar.eStyle" Scope="User">
+      <Value Profile="(Default)">Office2010Silver</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
